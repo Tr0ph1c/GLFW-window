@@ -1,0 +1,1 @@
+g++ main.cpp -o main libglfw3dll.a -lopengl32 && main
